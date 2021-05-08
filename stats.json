@@ -1,5 +1,5 @@
 {
-  "time_played": 386.355699,
+  "time_played": 394.481767,
   "results": [
     {
       "number": 47,
@@ -1511,6 +1511,18 @@
       "number": 47,
       "id": 47,
       "prob": 0.9997804718522523,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 38,
+      "prob": 0.4837800791411357,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.999814863636323,
       "train_mode": true
     }
   ]

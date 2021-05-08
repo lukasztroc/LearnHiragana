@@ -4,8 +4,8 @@ from datetime import datetime
 from enum import Enum, auto
 from tkinter import messagebox
 import numpy as np
-from asd import *
-from score import *
+from model_utils import *
+from gui_classes import *
 
 # EpsImagePlugin.gs_windows_binary = r'C:\Program Files\gs\gs9.53.3\bin\gswin64c'
 model = load_model_from_dict('files/resnet18_v3.pt')
@@ -157,7 +157,7 @@ class Menu(Frame):
             Button(self, text='Settings', padx=42, pady=10, bg=self.color),
             Button(self, text='Statistics', padx=40, pady=10, bg=self.color),
             Button(self, text='About', padx=46, pady=10, bg=self.color,
-                   command=lambda: webbrowser.open('https://google.com', new=0, autoraise=True))]
+                   command=lambda: webbrowser.open('https://github.com/lukasztroc/LearnHiragana', new=0, autoraise=True))]
         for item in self.item_list:
             item.grid(pady=10, padx=20)
 
