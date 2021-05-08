@@ -1,5 +1,5 @@
 {
-  "time_played": 359.960054,
+  "time_played": 386.355699,
   "results": [
     {
       "number": 47,
@@ -1439,6 +1439,78 @@
       "number": 47,
       "id": 47,
       "prob": 0.9999998893113451,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.8321653641248465,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999999897590933,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999999999945799,
+      "train_mode": false
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.959761649302695,
+      "train_mode": false
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999999998470905,
+      "train_mode": false
+    },
+    {
+      "number": 10,
+      "id": 47,
+      "prob": 0.5058957950098593,
+      "train_mode": false
+    },
+    {
+      "number": 27,
+      "id": 9,
+      "prob": 0.6424927571039306,
+      "train_mode": false
+    },
+    {
+      "number": 14,
+      "id": 28,
+      "prob": 0.9999243890408087,
+      "train_mode": false
+    },
+    {
+      "number": 38,
+      "id": 1,
+      "prob": 0.5180801015824632,
+      "train_mode": false
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999999999680196,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 38,
+      "prob": 0.5435769472859396,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9997804718522523,
       "train_mode": true
     }
   ]
