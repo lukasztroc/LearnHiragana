@@ -1,3 +1,1445 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:853a1f8a1ba24f4df8b310966e8e45efa1dc3d7e131352499e4dc0943e2ca03b
-size 25607
+{
+  "time_played": 359.960054,
+  "results": [
+    {
+      "number": 47,
+      "id": 19,
+      "prob": 0.1740602915874446,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.7986495928479687,
+      "train_mode": true
+    },
+    {
+      "number": 16,
+      "id": 18,
+      "prob": 0.28899501803499417,
+      "train_mode": true
+    },
+    {
+      "number": 36,
+      "id": 9,
+      "prob": 0.18717890316291472,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 3,
+      "prob": 0.09605091699172363,
+      "train_mode": true
+    },
+    {
+      "number": 20,
+      "id": 26,
+      "prob": 0.011319103697942243,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 2.7022216728697304,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.134233701346194,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": -0.5865294478281879,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999305682769846,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9991217766764637,
+      "train_mode": true
+    },
+    {
+      "number": 41,
+      "id": 21,
+      "prob": 0.11468801369516027,
+      "train_mode": true
+    },
+    {
+      "number": 38,
+      "id": 28,
+      "prob": 0.1586997661531086,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 47,
+      "prob": 0.9997949136391515,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 3,
+      "prob": 0.28344641276781907,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 3,
+      "prob": 0.3096847737409819,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 47,
+      "prob": 0.9977553091631859,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 47,
+      "prob": 0.9994483525973266,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 27,
+      "prob": 0.20069563690915032,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 47,
+      "prob": 0.7385909370364713,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 47,
+      "prob": 0.9885308370734487,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 47,
+      "prob": 0.6514287193870413,
+      "train_mode": true
+    },
+    {
+      "number": 5,
+      "id": 47,
+      "prob": 0.9564992955387992,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 34,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 5,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 25,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 40,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999634201113334,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.5258774273715464,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.3745435229029353,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 32,
+      "prob": 0.38133155239306676,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 26,
+      "prob": 0.30803327278789694,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 39,
+      "prob": 0.6238797009251456,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9998275278355397,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9997255167973637,
+      "train_mode": true
+    },
+    {
+      "number": 28,
+      "id": 28,
+      "prob": 0.9914184848323045,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 34,
+      "prob": 0.560198235706884,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 11,
+      "prob": 0.9995670990962316,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 11,
+      "prob": 0.816157386147834,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 35,
+      "prob": 0.8572925738959536,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 35,
+      "prob": 0.503161722343495,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 32,
+      "prob": 0.9119818616235035,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.999999933742862,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 48,
+      "prob": 0.9739383922893662,
+      "train_mode": true
+    },
+    {
+      "number": 20,
+      "id": 48,
+      "prob": 0.9739383922893662,
+      "train_mode": true
+    },
+    {
+      "number": 27,
+      "id": 7,
+      "prob": 0.932652167417803,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.999999987367468,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999998884224461,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 28,
+      "prob": 0.24372475153530243,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 17,
+      "prob": 0.37275796258192057,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 1,
+      "prob": 0.7094579963709869,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 9,
+      "prob": 0.825830922274027,
+      "train_mode": true
+    },
+    {
+      "number": 19,
+      "id": 19,
+      "prob": 0.9999013118783706,
+      "train_mode": true
+    },
+    {
+      "number": 19,
+      "id": 19,
+      "prob": 0.999631049726231,
+      "train_mode": true
+    },
+    {
+      "number": 24,
+      "id": 24,
+      "prob": 0.9999964743099463,
+      "train_mode": true
+    },
+    {
+      "number": 41,
+      "id": 39,
+      "prob": 0.7104987716202911,
+      "train_mode": true
+    },
+    {
+      "number": 41,
+      "id": 47,
+      "prob": 0.9999597954264825,
+      "train_mode": true
+    },
+    {
+      "number": 41,
+      "id": 34,
+      "prob": 0.9104390038576808,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 11,
+      "prob": 0.9390246041012865,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 34,
+      "prob": 0.5125877654731409,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 38,
+      "prob": 0.9547504434255616,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 38,
+      "prob": 0.420117730133089,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 8,
+      "prob": 0.9868012695013656,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 14,
+      "prob": 0.2600902511946123,
+      "train_mode": true
+    },
+    {
+      "number": 24,
+      "id": 24,
+      "prob": 0.9994610201322274,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 46,
+      "prob": 0.9999994340808059,
+      "train_mode": true
+    },
+    {
+      "number": 45,
+      "id": 40,
+      "prob": 0.3097872260584901,
+      "train_mode": true
+    },
+    {
+      "number": 45,
+      "id": 30,
+      "prob": 0.4470545573549694,
+      "train_mode": true
+    },
+    {
+      "number": 45,
+      "id": 9,
+      "prob": 0.5270710842313558,
+      "train_mode": true
+    },
+    {
+      "number": 45,
+      "id": 28,
+      "prob": 0.8624628734733812,
+      "train_mode": true
+    },
+    {
+      "number": 45,
+      "id": 42,
+      "prob": 0.7961960985207417,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 34,
+      "prob": 0.8406871899848911,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 8,
+      "prob": 0.6702122321747493,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 9,
+      "prob": 0.40807288511421946,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 46,
+      "prob": 0.397363685937122,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 9,
+      "prob": 0.9742033147693677,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 34,
+      "prob": 0.9200406813051328,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 1,
+      "prob": 0.6451980168278328,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 1,
+      "prob": 0.9081035960268419,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 48,
+      "prob": 0.6904345159232234,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 26,
+      "prob": 0.9706516438331455,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999999995347006,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 24,
+      "id": 24,
+      "prob": 0.9982509069655264,
+      "train_mode": true
+    },
+    {
+      "number": 45,
+      "id": 3,
+      "prob": 0.8688488773638153,
+      "train_mode": true
+    },
+    {
+      "number": 45,
+      "id": 21,
+      "prob": 0.4793866130858304,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 38,
+      "prob": 0.7637403634057848,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 2,
+      "prob": 0.5503134926729264,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 11,
+      "prob": 0.9810706346034122,
+      "train_mode": true
+    },
+    {
+      "number": 33,
+      "id": 33,
+      "prob": 0.999990021553272,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 34,
+      "prob": 0.9496249511379331,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 34,
+      "prob": 0.9636515916704962,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 34,
+      "prob": 0.8484415195875745,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 14,
+      "prob": 0.7085692939881973,
+      "train_mode": true
+    },
+    {
+      "number": 21,
+      "id": 21,
+      "prob": 0.6957143253294299,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 11,
+      "prob": 0.9999685619159918,
+      "train_mode": true
+    },
+    {
+      "number": 41,
+      "id": 7,
+      "prob": 0.8445975345294635,
+      "train_mode": true
+    },
+    {
+      "number": 41,
+      "id": 41,
+      "prob": 0.9539340796999732,
+      "train_mode": true
+    },
+    {
+      "number": 35,
+      "id": 35,
+      "prob": 0.9874213190619792,
+      "train_mode": true
+    },
+    {
+      "number": 35,
+      "id": 35,
+      "prob": 0.9953658574438519,
+      "train_mode": true
+    },
+    {
+      "number": 24,
+      "id": 24,
+      "prob": 0.9999626562429155,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 13,
+      "prob": 0.4333791454167924,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 3,
+      "prob": 0.37916142658014274,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 37,
+      "prob": 0.5257625675505422,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 19,
+      "prob": 0.3145260877084878,
+      "train_mode": true
+    },
+    {
+      "number": 46,
+      "id": 19,
+      "prob": 0.999880067867273,
+      "train_mode": true
+    },
+    {
+      "number": 46,
+      "id": 10,
+      "prob": 0.5488118840613071,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 34,
+      "prob": 0.9999999998909557,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 15,
+      "prob": 0.9997929579138709,
+      "train_mode": true
+    },
+    {
+      "number": 16,
+      "id": 16,
+      "prob": 0.351294650824783,
+      "train_mode": true
+    },
+    {
+      "number": 10,
+      "id": 6,
+      "prob": 0.6298895272781962,
+      "train_mode": true
+    },
+    {
+      "number": 10,
+      "id": 23,
+      "prob": 0.9203455127836361,
+      "train_mode": true
+    },
+    {
+      "number": 10,
+      "id": 15,
+      "prob": 0.5485830473065422,
+      "train_mode": true
+    },
+    {
+      "number": 10,
+      "id": 41,
+      "prob": 0.735696791031719,
+      "train_mode": true
+    },
+    {
+      "number": 10,
+      "id": 10,
+      "prob": 0.9999968696119726,
+      "train_mode": true
+    },
+    {
+      "number": 23,
+      "id": 33,
+      "prob": 0.6896684273263304,
+      "train_mode": true
+    },
+    {
+      "number": 23,
+      "id": 20,
+      "prob": 0.5491379228777573,
+      "train_mode": true
+    },
+    {
+      "number": 23,
+      "id": 34,
+      "prob": 0.9997678819921351,
+      "train_mode": true
+    },
+    {
+      "number": 23,
+      "id": 11,
+      "prob": 0.7898148754567933,
+      "train_mode": true
+    },
+    {
+      "number": 23,
+      "id": 23,
+      "prob": 0.8823974993639944,
+      "train_mode": true
+    },
+    {
+      "number": 36,
+      "id": 36,
+      "prob": 0.5732280978777614,
+      "train_mode": true
+    },
+    {
+      "number": 35,
+      "id": 35,
+      "prob": 0.9772649465264471,
+      "train_mode": true
+    },
+    {
+      "number": 23,
+      "id": 22,
+      "prob": 0.5609831340887635,
+      "train_mode": true
+    },
+    {
+      "number": 23,
+      "id": 25,
+      "prob": 0.7790424239743123,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 34,
+      "prob": 0.9150189571656598,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 6,
+      "prob": 0.9430090110068277,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 10,
+      "prob": 0.9674593991622459,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 46,
+      "prob": 0.9992988300081107,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 28,
+      "prob": 0.35885158272165985,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 19,
+      "prob": 0.6199085370508036,
+      "train_mode": true
+    },
+    {
+      "number": 3,
+      "id": 47,
+      "prob": 0.7430546846202315,
+      "train_mode": true
+    },
+    {
+      "number": 3,
+      "id": 3,
+      "prob": 0.9999999521476296,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999999987530652,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 1.0,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9990520838852577,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.6432173072241026,
+      "train_mode": true
+    },
+    {
+      "number": 21,
+      "id": 21,
+      "prob": 0.9633743604183461,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 18,
+      "prob": 0.8694189194516324,
+      "train_mode": true
+    },
+    {
+      "number": 29,
+      "id": 29,
+      "prob": 0.9870121210898412,
+      "train_mode": true
+    },
+    {
+      "number": 8,
+      "id": 26,
+      "prob": 0.9802791510223475,
+      "train_mode": true
+    },
+    {
+      "number": 8,
+      "id": 8,
+      "prob": 0.9999999999997675,
+      "train_mode": true
+    },
+    {
+      "number": 8,
+      "id": 8,
+      "prob": 0.9999999999096887,
+      "train_mode": true
+    },
+    {
+      "number": 17,
+      "id": 17,
+      "prob": 0.8627214965142157,
+      "train_mode": true
+    },
+    {
+      "number": 43,
+      "id": 34,
+      "prob": 0.9987950194124846,
+      "train_mode": true
+    },
+    {
+      "number": 43,
+      "id": 34,
+      "prob": 0.846744420855764,
+      "train_mode": true
+    },
+    {
+      "number": 43,
+      "id": 39,
+      "prob": 0.9999749704764179,
+      "train_mode": true
+    },
+    {
+      "number": 43,
+      "id": 43,
+      "prob": 0.994323468108149,
+      "train_mode": true
+    },
+    {
+      "number": 20,
+      "id": 46,
+      "prob": 0.9547548403045807,
+      "train_mode": true
+    },
+    {
+      "number": 20,
+      "id": 29,
+      "prob": 0.5807140995481568,
+      "train_mode": true
+    },
+    {
+      "number": 20,
+      "id": 29,
+      "prob": 0.5807140995481568,
+      "train_mode": true
+    },
+    {
+      "number": 20,
+      "id": 46,
+      "prob": 0.7731385608383539,
+      "train_mode": true
+    },
+    {
+      "number": 0,
+      "id": 0,
+      "prob": 0.4197451068524465,
+      "train_mode": true
+    },
+    {
+      "number": 0,
+      "id": 34,
+      "prob": 0.8648613228795129,
+      "train_mode": true
+    },
+    {
+      "number": 0,
+      "id": 0,
+      "prob": 0.9999897287766841,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 15,
+      "prob": 0.8138922169506445,
+      "train_mode": true
+    },
+    {
+      "number": 6,
+      "id": 41,
+      "prob": 0.9800782155020572,
+      "train_mode": true
+    },
+    {
+      "number": 6,
+      "id": 41,
+      "prob": 0.9906763852640966,
+      "train_mode": true
+    },
+    {
+      "number": 6,
+      "id": 10,
+      "prob": 0.45198550040992536,
+      "train_mode": true
+    },
+    {
+      "number": 6,
+      "id": 41,
+      "prob": 0.5891028076822237,
+      "train_mode": true
+    },
+    {
+      "number": 6,
+      "id": 10,
+      "prob": 0.6544508869784683,
+      "train_mode": true
+    },
+    {
+      "number": 6,
+      "id": 46,
+      "prob": 0.9997720910654335,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 10,
+      "prob": 0.5746532735808343,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 12,
+      "prob": 0.4801264644667758,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 18,
+      "prob": 0.9996068048835063,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 18,
+      "prob": 0.9999973187208374,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 18,
+      "prob": 0.8599732843803675,
+      "train_mode": true
+    },
+    {
+      "number": 22,
+      "id": 22,
+      "prob": 0.9816501931201659,
+      "train_mode": true
+    },
+    {
+      "number": 36,
+      "id": 40,
+      "prob": 0.36212641047101807,
+      "train_mode": true
+    },
+    {
+      "number": 36,
+      "id": 10,
+      "prob": 0.2508499743801266,
+      "train_mode": true
+    },
+    {
+      "number": 36,
+      "id": 10,
+      "prob": 0.9973675542289907,
+      "train_mode": true
+    },
+    {
+      "number": 36,
+      "id": 36,
+      "prob": 0.6051912530562664,
+      "train_mode": true
+    },
+    {
+      "number": 17,
+      "id": 17,
+      "prob": 0.6227712635540732,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 14,
+      "prob": 0.6559959781217803,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 34,
+      "prob": 0.6992257222062667,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 34,
+      "prob": 0.9878879022269125,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 9,
+      "prob": 0.9998903771483048,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 46,
+      "prob": 0.7964348857817748,
+      "train_mode": true
+    },
+    {
+      "number": 14,
+      "id": 14,
+      "prob": 0.5457827193205618,
+      "train_mode": true
+    },
+    {
+      "number": 7,
+      "id": 7,
+      "prob": 0.9897344608413006,
+      "train_mode": true
+    },
+    {
+      "number": 11,
+      "id": 11,
+      "prob": 0.9985235783542833,
+      "train_mode": true
+    },
+    {
+      "number": 10,
+      "id": 10,
+      "prob": 0.8562239180456185,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 34,
+      "prob": 0.9999998316417257,
+      "train_mode": true
+    },
+    {
+      "number": 36,
+      "id": 36,
+      "prob": 0.9782668025026692,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 35,
+      "prob": 0.3665257473917818,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 15,
+      "prob": 0.5687276901059,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 46,
+      "prob": 0.9610252947264739,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 47,
+      "prob": 0.9099741509758895,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 34,
+      "prob": 0.9999997105123392,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 46,
+      "prob": 0.7559209075149939,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 46,
+      "prob": 0.5283926260932803,
+      "train_mode": true
+    },
+    {
+      "number": 15,
+      "id": 15,
+      "prob": 0.5616361410186459,
+      "train_mode": true
+    },
+    {
+      "number": 17,
+      "id": 5,
+      "prob": 0.5803269064021284,
+      "train_mode": true
+    },
+    {
+      "number": 17,
+      "id": 38,
+      "prob": 0.6518832373515474,
+      "train_mode": true
+    },
+    {
+      "number": 17,
+      "id": 17,
+      "prob": 0.9985978395897523,
+      "train_mode": true
+    },
+    {
+      "number": 13,
+      "id": 13,
+      "prob": 0.9998925499136257,
+      "train_mode": true
+    },
+    {
+      "number": 3,
+      "id": 2,
+      "prob": 0.9984942526904838,
+      "train_mode": true
+    },
+    {
+      "number": 3,
+      "id": 3,
+      "prob": 0.5042299393439146,
+      "train_mode": true
+    },
+    {
+      "number": 33,
+      "id": 33,
+      "prob": 0.9999999940554016,
+      "train_mode": true
+    },
+    {
+      "number": 33,
+      "id": 33,
+      "prob": 0.9999996612570874,
+      "train_mode": true
+    },
+    {
+      "number": 33,
+      "id": 33,
+      "prob": 0.9999999985953067,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 16,
+      "prob": 0.9850969909376349,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 34,
+      "prob": 0.9997843790461204,
+      "train_mode": true
+    },
+    {
+      "number": 30,
+      "id": 30,
+      "prob": 0.6704989302777543,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 9,
+      "prob": 0.9999974947970043,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 18,
+      "prob": 0.9464788556411922,
+      "train_mode": true
+    },
+    {
+      "number": 6,
+      "id": 6,
+      "prob": 0.999257564512663,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 47,
+      "prob": 0.809802380655541,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 9,
+      "prob": 0.5543866496027555,
+      "train_mode": true
+    },
+    {
+      "number": 18,
+      "id": 18,
+      "prob": 0.8109769774026415,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 36,
+      "prob": 0.6636242428098251,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 26,
+      "prob": 0.9999999442754419,
+      "train_mode": true
+    },
+    {
+      "number": 26,
+      "id": 24,
+      "prob": 0.48476568870821735,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 28,
+      "prob": 0.6929389378990211,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 5,
+      "prob": 0.9987747888086467,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 5,
+      "prob": 0.9953024684296649,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 5,
+      "prob": 0.4950012246992247,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 2,
+      "prob": 0.9905806572164455,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 2,
+      "prob": 0.9402010532717832,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 42,
+      "prob": 0.4951012720810551,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 5,
+      "prob": 0.9758187012656341,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 2,
+      "prob": 0.57364160085134,
+      "train_mode": true
+    },
+    {
+      "number": 48,
+      "id": 48,
+      "prob": 0.836846869591984,
+      "train_mode": true
+    },
+    {
+      "number": 35,
+      "id": 35,
+      "prob": 0.7908035889566032,
+      "train_mode": true
+    },
+    {
+      "number": 35,
+      "id": 35,
+      "prob": 0.9999999999150291,
+      "train_mode": true
+    },
+    {
+      "number": 33,
+      "id": 33,
+      "prob": 0.9993483405345539,
+      "train_mode": true
+    },
+    {
+      "number": 38,
+      "id": 42,
+      "prob": 0.37980725375263846,
+      "train_mode": true
+    },
+    {
+      "number": 38,
+      "id": 16,
+      "prob": 0.5995308597463684,
+      "train_mode": true
+    },
+    {
+      "number": 38,
+      "id": 7,
+      "prob": 0.9070123518408953,
+      "train_mode": true
+    },
+    {
+      "number": 38,
+      "id": 7,
+      "prob": 0.8626622765638736,
+      "train_mode": true
+    },
+    {
+      "number": 38,
+      "id": 38,
+      "prob": 0.9683959301040007,
+      "train_mode": true
+    },
+    {
+      "number": 20,
+      "id": 20,
+      "prob": 0.9999151983054388,
+      "train_mode": true
+    },
+    {
+      "number": 3,
+      "id": 3,
+      "prob": 0.971386848837006,
+      "train_mode": true
+    },
+    {
+      "number": 29,
+      "id": 29,
+      "prob": 0.9973812536312283,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 34,
+      "prob": 0.9819220292056609,
+      "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999998893113451,
+      "train_mode": true
+    }
+  ]
+}
