@@ -1,5 +1,5 @@
 # LearnHiragana
-Is a language learning tool created to assist in learning Japanese phonetic lettering system Hiragana in a form of drawing game. It uses neural networks to classify user input and provide feedback accordingly.
+Is a language tool created to assist in learning Japanese phonetic lettering system Hiragana in a form of drawing game. It uses neural networks to classify user input and provide feedback accordingly.
 # Gameplay
 LearnHiragana has 2 modes of gameplay available: Train and Test. 
 ## Train mode
