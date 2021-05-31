@@ -1,5 +1,5 @@
 {
-  "time_played": 1366.450044,
+  "time_played": 3633.967173,
   "results": [
     {
       "number": 47,
@@ -2478,6 +2478,48 @@
       "id": 11,
       "prob": 0.8499410554376948,
       "train_mode": true
+    },
+    {
+      "number": 47,
+      "id": 47,
+      "prob": 0.9999999999996154,
+      "train_mode": true
+    },
+    {
+      "number": 34,
+      "id": 47,
+      "prob": 0.9999999106486253,
+      "train_mode": true
+    },
+    {
+      "number": 2,
+      "id": 24,
+      "prob": 0.7304395006980601,
+      "train_mode": false
+    },
+    {
+      "number": 12,
+      "id": 12,
+      "prob": 0.9999986906293619,
+      "train_mode": false
+    },
+    {
+      "number": 4,
+      "id": 0,
+      "prob": 0.9999999852648391,
+      "train_mode": false
+    },
+    {
+      "number": 39,
+      "id": 8,
+      "prob": 0.9839598714147061,
+      "train_mode": false
+    },
+    {
+      "number": 31,
+      "id": 31,
+      "prob": 0.9999999918560917,
+      "train_mode": false
     }
   ]
 }
