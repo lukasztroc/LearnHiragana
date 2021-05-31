@@ -32,7 +32,7 @@ class Mark(Label):
 class Score(Frame):
     def __init__(self, master):
         super().__init__(master)
-        self.icons = [Mark(self) for i in range(5)]
+        self.icons = [Mark(self) for _ in range(5)]
         self.create_widgets()
         self.counter = 0
 

@@ -10,23 +10,24 @@ import pytorch_lightning as pl
 from pytorch_lightning.core.decorators import auto_move_data
 from torch.utils.data import Dataset
 
+
 class KMNIST(Dataset):
 
     def __init__(self, train=True, root=''):
         self.root = root
 
         self.X_train = torch.from_numpy(
-            np.load(root + "hiragana-20210405T130133Z-001/hiragana/k49-train-imgs.npz")['arr_0']).reshape(-1, 1, 28, 28)
+            np.load(root + "dev/k49-train-imgs.npz")['arr_0']).reshape(-1, 1, 28, 28)
         self.X_train = self.X_train / 255
         self.y_train = torch.from_numpy(
-            np.load(root + "hiragana-20210405T130133Z-001/hiragana/k49-train-labels.npz")['arr_0'])
+            np.load(root + "dev/k49-train-labels.npz")['arr_0'])
         self.y_train = self.y_train.type(torch.LongTensor)
 
         self.X_test = torch.from_numpy(
-            np.load(root + "hiragana-20210405T130133Z-001/hiragana/k49-test-imgs.npz")['arr_0']).reshape(-1, 1, 28, 28)
+            np.load(root + "dev/k49-test-imgs.npz")['arr_0']).reshape(-1, 1, 28, 28)
         self.X_test = self.X_test / 255
         self.y_test = torch.from_numpy(
-            np.load(root + "hiragana-20210405T130133Z-001/hiragana/k49-test-labels.npz")['arr_0'])
+            np.load(root + "dev/k49-test-labels.npz")['arr_0'])
         self.y_test = self.y_test.type(torch.LongTensor)
 
         self.train = train
