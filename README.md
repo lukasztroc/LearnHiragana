@@ -47,7 +47,7 @@ This section provides short overview of technologies and the way they were used 
 
 ## Data processing and classification
 
-The main feature of the project ResNet-18 neural network trained from scratch using **PyTorch** and **PyTorch lightning**. It was trained on [Kuzushiji-49 dataset](http://github.com/rois-codh/kmnist) using Google Colab.
+The main feature of the project is ResNet-18 neural network trained from scratch using **PyTorch** and **PyTorch lightning**. It was trained on [Kuzushiji-49 dataset](http://github.com/rois-codh/kmnist) using Google Colab.
 Model achieved weighted accuracy of over 95% on the test set, which is comparable to PreActResNet-18 model listed in the benchmark on the dataset github page.
 Input preprocessing is done using **NumPy** and **Pillow**. 
 
